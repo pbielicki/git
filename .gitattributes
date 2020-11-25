@@ -1,1 +1,2 @@
-.branch merge=ours
+file1 merge=ours
+file2 merge=ours
